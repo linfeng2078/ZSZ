@@ -1,0 +1,10 @@
+D:\我的学习\Project\ZSZ\ZSZ.IService\bin\Debug\ZSZ.IService.dll
+D:\我的学习\Project\ZSZ\ZSZ.IService\bin\Debug\ZSZ.IService.pdb
+D:\我的学习\Project\ZSZ\ZSZ.IService\obj\Debug\ZSZ.IService.csproj.CoreCompileInputs.cache
+D:\我的学习\Project\ZSZ\ZSZ.IService\obj\Debug\ZSZ.IService.dll
+D:\我的学习\Project\ZSZ\ZSZ.IService\obj\Debug\ZSZ.IService.pdb
+F:\我的学习\Project\ZSZ\ZSZ.IService\bin\Debug\ZSZ.IService.dll
+F:\我的学习\Project\ZSZ\ZSZ.IService\bin\Debug\ZSZ.IService.pdb
+F:\我的学习\Project\ZSZ\ZSZ.IService\obj\Debug\ZSZ.IService.csproj.CoreCompileInputs.cache
+F:\我的学习\Project\ZSZ\ZSZ.IService\obj\Debug\ZSZ.IService.dll
+F:\我的学习\Project\ZSZ\ZSZ.IService\obj\Debug\ZSZ.IService.pdb

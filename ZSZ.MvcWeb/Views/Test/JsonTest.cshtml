@@ -1,0 +1,41 @@
+﻿@using ZSZ.Common;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>JsonTest</title>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+    <div>
+        <button id="btn">click</button>
+
+        @{
+            Pager pager = new Pager();
+            pager.CurrentLinkClassName = "active";
+            pager.PageIndex = 5;
+            pager.UrlPatten = "/Test/Page?p={Rn}";
+            pager.TotalCount = 805;
+        }
+        @Html.Raw(pager.GetPager())
+    </div>
+
+    <script type="text/javascript">
+        $(function () {
+            $("#btn").click(function () {
+                $.ajax({
+                    type: "post",
+                    ur: "@Url.Action("JsonTest", "Test")"+"?name=Tony",
+                    success: function (data) {
+                        alert("姓名是：" + data.name + ",出生日期是：" + data.birthDate);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

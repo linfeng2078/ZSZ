@@ -1,0 +1,12 @@
+2019-03-15 10:05:42,590 [1] DEBUG CommonTest.Program - 飞行高度10000米
+2019-03-15 10:05:42,604 [1] ERROR CommonTest.Program - 快没油啦
+2019-03-15 10:05:42,604 [1] FATAL CommonTest.Program - 已经没有油啦！！！！
+2019-03-15 10:05:43,306 [1] ERROR CommonTest.Program - 连接数据库异常：System.InvalidOperationException: ConnectionString 属性尚未初始化。
+   在 System.Data.SqlClient.SqlConnection.PermissionDemand()
+   在 System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CommonTest.Program.Main(String[] args) 位置 D:\我的学习\Project\ZSZ\CommonTest\Program.cs:行号 66
