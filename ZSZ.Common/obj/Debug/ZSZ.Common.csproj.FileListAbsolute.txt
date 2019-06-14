@@ -18,3 +18,16 @@ F:\我的学习\Project\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.csproj.CoreCompileIn
 F:\我的学习\Project\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.csproj.CopyComplete
 F:\我的学习\Project\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.dll
 F:\我的学习\Project\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.pdb
+D:\ZSZ\ZSZ.Common\bin\Debug\ZSZ.Common.dll.config
+D:\ZSZ\ZSZ.Common\bin\Debug\ZSZ.Common.dll
+D:\ZSZ\ZSZ.Common\bin\Debug\ZSZ.Common.pdb
+D:\ZSZ\ZSZ.Common\bin\Debug\CodeCarvings.Piczard.dll
+D:\ZSZ\ZSZ.Common\bin\Debug\System.Web.Mvc.dll
+D:\ZSZ\ZSZ.Common\bin\Debug\CodeCarvings.Piczard.xml
+D:\ZSZ\ZSZ.Common\bin\Debug\System.Web.Mvc.xml
+D:\ZSZ\ZSZ.Common\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.csprojAssemblyReference.cache
+D:\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.csproj.CoreCompileInputs.cache
+D:\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.csproj.CopyComplete
+D:\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.dll
+D:\ZSZ\ZSZ.Common\obj\Debug\ZSZ.Common.pdb

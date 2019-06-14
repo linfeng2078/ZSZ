@@ -3,3 +3,8 @@ F:\我的学习\Project\ZSZ\ZSZ.DTO\bin\Debug\ZSZ.DTO.pdb
 F:\我的学习\Project\ZSZ\ZSZ.DTO\obj\Debug\ZSZ.DTO.csproj.CoreCompileInputs.cache
 F:\我的学习\Project\ZSZ\ZSZ.DTO\obj\Debug\ZSZ.DTO.dll
 F:\我的学习\Project\ZSZ\ZSZ.DTO\obj\Debug\ZSZ.DTO.pdb
+D:\ZSZ\ZSZ.DTO\bin\Debug\ZSZ.DTO.dll
+D:\ZSZ\ZSZ.DTO\bin\Debug\ZSZ.DTO.pdb
+D:\ZSZ\ZSZ.DTO\obj\Debug\ZSZ.DTO.csproj.CoreCompileInputs.cache
+D:\ZSZ\ZSZ.DTO\obj\Debug\ZSZ.DTO.dll
+D:\ZSZ\ZSZ.DTO\obj\Debug\ZSZ.DTO.pdb
